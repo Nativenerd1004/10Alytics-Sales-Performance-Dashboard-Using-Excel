@@ -20,7 +20,7 @@
 - [STAR Approach](star-approach)
 
 ## Project Overview
-The Sales performance dashboard aims to provide website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
+The Sales performance dashboard aims to provide 10Alytics business with comprehensive insights into their business, focusing on key metrics such as revenue by age-group, revenue by top 10 States, profits by products, and transactions overtime. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
 
 
 ![10Alytics Sales Performance Dashboard](https://github.com/Nativenerd1004/10Alytics-Sales-Performance-Dashboard-Using-Excel/assets/149740069/1e3278b1-b0f8-4ae9-85e2-0b493638d07d)
@@ -37,7 +37,7 @@ Utilize gender data to analyze and understand the distribution of customers acro
 #### Revenue Overview:
 Determine the total amount of revenue generated in the last years.
 #### Product Performance:
-Identify the most ordered product and the product generating the highest revenue.
+Identify the profits made by product categories.
 #### Category Insights:
 Explore the overall distribution of orders and revenue across different product categories.
 #### Payment Method Analysis:
@@ -45,24 +45,23 @@ Investigate the most commonly used payment methods by customers and the payment 
 #### Revenue Trends Over Time:
 Examine the evolution of revenue generated over time through visualizations.
 #### Geographical Analysis:
-Highlight the top 10 countries in revenue generation and highest order quantity.
-
+Highlight the top 10 states revenue generation.
 
 ## Data Sources
-The data for this project was provided by the 10Alytics company. To ensure accuracy and relevance, data was gathered bit by bit from company representatives, and a thorough data cleaning process was undertaken before commencing the dashboard development.
+The data for this project was provided by the 10Alytics company. 
 
 ## Data Preprocessing
 The data cleaning process involved addressing inconsistencies, missing values, and outliers. Data gathering was a collaborative effort with the company representatives to ensure completeness and accuracy.
 
 ## Evaluation Metrics
-The success of the project will be measured by the accuracy and depth of insights derived from the dashboard. Key metrics include the precision of gender distribution analysis, accuracy in revenue calculations, and effectiveness in identifying top-performing products, location etc.
+The success of the project will be measured by the accuracy and depth of insights derived from the dashboard. Key metrics include the precision of gender distribution analysis, accuracy in revenue calculations, and effectiveness in identifying top-performing states or sales persons.
 
 ## Actionable Insights
 
 #### Targeted Marketing:
 Tailor marketing strategies based on the identified gender distribution to better reach the target audience.
 #### Product Focus:
-Optimize inventory and promotions by focusing on the most ordered and revenue-generating products.
+Optimize inventory and promotions by focusing on the most ordered and revenue-generating product categories.
 #### Category Optimization:
 Allocate resources strategically by understanding the performance of different product categories.
 #### Payment Experience Enhancement:
