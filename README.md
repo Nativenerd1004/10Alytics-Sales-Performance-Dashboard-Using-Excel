@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis Dashboard Using Excel
+# 10Alytics Sales Performance Dashboard Using Excel
 
 ![image](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/5c1e9a27-6b89-4f37-97d3-aec0f8007cc2)
 
@@ -20,7 +20,7 @@
 - [STAR Approach](star-approach)
 
 ## Project Overview
-The 10Alytics performance dashboard aims to provide any ECommerce website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
+The Sales performance dashboard aims to provide website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
 
 
 ![10Alytics Sales Performance Dashboard](https://github.com/Nativenerd1004/10Alytics-Sales-Performance-Dashboard-Using-Excel/assets/149740069/1e3278b1-b0f8-4ae9-85e2-0b493638d07d)
