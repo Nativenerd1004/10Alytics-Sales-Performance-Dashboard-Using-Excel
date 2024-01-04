@@ -20,11 +20,11 @@
 - [STAR Approach](star-approach)
 
 ## Project Overview
-The e-commerce performance dashboard aims to provide any ECommerce website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
+The 10Alytics performance dashboard aims to provide any ECommerce website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
 
 
+![10Alytics Sales Performance Dashboard](https://github.com/Nativenerd1004/10Alytics-Sales-Performance-Dashboard-Using-Excel/assets/149740069/1e3278b1-b0f8-4ae9-85e2-0b493638d07d)
 
-![Salesdashboard 2023-12-02 at 3 53 41 AM](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/88709500-389b-42ab-81fa-945b03948cbd)
 
 
 ## Project Objectives
@@ -49,7 +49,7 @@ Highlight the top 10 countries in revenue generation and highest order quantity.
 
 
 ## Data Sources
-The data for this project was provided by the e-commerce company. To ensure accuracy and relevance, data was gathered bit by bit from company representatives, and a thorough data cleaning process was undertaken before commencing the dashboard development.
+The data for this project was provided by the 10Alytics company. To ensure accuracy and relevance, data was gathered bit by bit from company representatives, and a thorough data cleaning process was undertaken before commencing the dashboard development.
 
 ## Data Preprocessing
 The data cleaning process involved addressing inconsistencies, missing values, and outliers. Data gathering was a collaborative effort with the company representatives to ensure completeness and accuracy.
@@ -76,10 +76,10 @@ Consider expanding business operations in countries identified as top performers
 For better understanding to a layman, I used the STAR approach of analyzing projects from start to finish. 
 
 ## Project Overview
-- **Situation:** Sterling E-Commerce sought insights into their business performance and efficiency through a comprehensive e-commerce dashboard.
+- **Situation:** 10Alytics sought insights into their business performance and efficiency through a comprehensive 10Alytics dashboard.
 - **Task:** Develop a data-driven dashboard focusing on key metrics, including customer distribution, revenue generation, product performance, and trends over time.
 - **Action:** Leveraging data provided by the company, data was gathered incrementally from representatives and cleaned extensively before dashboard development.
-- **Result:** The e-commerce performance dashboard aims to enhance operational efficiency and support informed decision-making.
+- **Result:** The 10Alytics performance dashboard aims to enhance operational efficiency and support informed decision-making.
 
 ## Project Objectives
 - **Situation:** The ECommerce desired specific insights, including their customer distribution, revenue overview, product performance, payment method analysis, revenue trends, and geographical analysis.
@@ -112,7 +112,7 @@ For better understanding to a layman, I used the STAR approach of analyzing proj
 - **Result:** The generated actionable insights informed strategic decisions for the business success.
 
 # Conclusion
-The e-commerce performance dashboard provides valuable insights, but further data exploration and analysis are recommended for a more comprehensive understanding. 
+The 10Alytics performance dashboard provides valuable insights, but further data exploration and analysis are recommended for a more comprehensive understanding. 
 
 
 
